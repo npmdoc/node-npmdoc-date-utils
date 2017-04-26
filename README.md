@@ -1,4 +1,7 @@
-# api documentation for  [date-utils (v1.2.21)](https://jerrysievert.github.io/date-utils/)  [![npm package](https://img.shields.io/npm/v/npmdoc-date-utils.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-date-utils) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-date-utils.svg)](https://travis-ci.org/npmdoc/node-npmdoc-date-utils)
+# npmdoc-date-utils
+
+#### basic api documentation for  [date-utils (v1.2.21)](https://jerrysievert.github.io/date-utils/)  [![npm package](https://img.shields.io/npm/v/npmdoc-date-utils.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-date-utils) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-date-utils.svg)](https://travis-ci.org/npmdoc/node-npmdoc-date-utils)
+
 #### Date add-ons for Node.js
 
 [![NPM](https://nodei.co/npm/date-utils.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/date-utils)
@@ -78,7 +81,8 @@
     "scripts": {
         "test": "vows -i --spec"
     },
-    "version": "1.2.21"
+    "version": "1.2.21",
+    "bin": {}
 }
 ```
 
